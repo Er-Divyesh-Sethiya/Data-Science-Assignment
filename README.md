@@ -1,7 +1,6 @@
 # Data-Science-Assignment
 
-
-## Data Science Project Template
+# Data Science Project Template
 
 # 1. Prepare Problem
 # a) Load libraries
